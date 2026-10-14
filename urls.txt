@@ -1,0 +1,11 @@
+# legitimate
+https://www.google.com/search?q=python
+https://github.com/anthropics
+https://www.sbi.co.in/web/personal-banking
+# phishing-style
+http://192.168.10.5/secure/login/verify-account
+http://paypal.account-verify.example.xyz/signin
+http://secure-login-sbi-update.top/verify
+https://xn--pple-43d.com/login
+http://bit.ly/3abcXYZ
+http://user@evil-site.com/update/password
