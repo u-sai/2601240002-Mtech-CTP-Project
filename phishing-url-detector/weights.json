@@ -1,0 +1,27 @@
+{
+  "weights": {
+    "ip_host": 0,
+    "at_symbol": 5,
+    "brand_lookalike": 5,
+    "brand_impersonation": 5,
+    "punycode": 0,
+    "suspicious_tld": 15,
+    "shortener": 0,
+    "no_https": 8,
+    "many_subdomains": 0,
+    "long_url": 8,
+    "long_host": 6,
+    "hyphens_in_host": 0,
+    "digits_in_host": 8,
+    "keywords": 15,
+    "keyword_in_host": 10,
+    "high_entropy_label": 8,
+    "nonstandard_port": 0,
+    "double_slash_path": 8,
+    "heavy_encoding": 6,
+    "embedded_url": 10,
+    "dns_unresolved": 10
+  },
+  "phishing_threshold": 20,
+  "suspicious_threshold": 15
+}
